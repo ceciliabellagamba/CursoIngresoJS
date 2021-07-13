@@ -13,6 +13,5 @@ function mostrar()
 	alert(nombre);
 
 
-
 }
 
